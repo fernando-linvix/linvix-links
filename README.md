@@ -22,7 +22,7 @@ A Linvix é uma empresa dedicada a fornecer soluções tecnológicas inovadoras.
 
 ## Contribuições
 
-Contribuições são sempre bem-vindas! Por favor
+Contribuições são sempre bem-vindas!
 
 ## Contato
 
